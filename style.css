@@ -55,7 +55,7 @@
 }
 
 .navlist .active {
-    color: #ad154f;
+    color: #fff;
     background-color: transparent;
 }
 
@@ -64,9 +64,6 @@
     height: auto;
 }
 
-.fas .fa-bars {
-    background-color: darkgreen;
-}
 
 .section1 {
     padding-block-start: 15vh;
@@ -483,11 +480,6 @@
         line-height: 1.3;
     }
 
-    
-    .navlist ul li a:visited {
-        color:black;
-    }
-
     .navlist ul li a:hover {
         color: #ad154f;
         background: transparent;
@@ -497,7 +489,7 @@
     }
     
     .navlist .active {
-        color: #ad154f;
+        color: #fff;
         background-color: transparent;
     }
    
